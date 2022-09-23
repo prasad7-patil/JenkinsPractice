@@ -14,6 +14,13 @@ public class Tc_001_practiceTest {
 		System.out.println("pass ");
 	}
 	
+	@Test
+	public void test3() {
+		System.out.println("pass ");
+	}
+	
+
+	
 
 	
 }
